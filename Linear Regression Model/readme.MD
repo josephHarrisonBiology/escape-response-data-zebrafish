@@ -1,4 +1,4 @@
-##Linear Regression Model
+Linear Regression Model
 
 This is a Python script for a simple linear regression model that uses the scikit-learn library to predict the turn angle of an object based on its stimulus size, collision speed, and collision angle.
 
